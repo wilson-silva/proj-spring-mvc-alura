@@ -48,7 +48,7 @@ http://localhost:8080
 usuario: joao   senha: joao 
 usuario: maria   senha: maria
 
-# O endpoint abaixo todos conseguem acessar mais apenas para vizualização dos pedidos
+# Com o endpoint abaixo todos conseguem acessar mais apenas para vizualização dos pedidos
 http://localhost:8080/home
 
 ```
