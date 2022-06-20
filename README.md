@@ -32,7 +32,7 @@ Pré-requisitos:
 ```bash
 
 # clonar repositório
-https://github.com/wilson-silva/spring-mvc-alura
+git clone https://github.com/wilson-silva/spring-mvc-alura
 
 # entrar na pasta do projeto spring_mvc-pratica
 cd spring_mvc-pratica ou abrir o bash dentro da pasta
