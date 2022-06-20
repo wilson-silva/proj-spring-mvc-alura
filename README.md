@@ -14,6 +14,10 @@ pessoas que estão viajando em outros lugares.
 Este projeto me trouxe uma panorama sobre app Web usando Spring MVC,
 formulários, templates, interceptadores e uma beve introdução em API REST.
 
+## Layout web
+
+![Modelo Conceitual](https://github.com/wilson-silva/spring-mvc-alura/blob/main/tela1.png)
+
 ## Como acessar
 - Fazer o download do projeto 
 - Subir o Servidor
@@ -25,18 +29,22 @@ formulários, templates, interceptadores e uma beve introdução em API REST.
 O endpoint /home todos conseguem acessar mais apenas para vizualização dos pedidos
 
 
-## Tecnologias e ferramentas utilizadas
+# Tecnologias utilizadas
+## Back end
 - Java
 - Spring MVC
-- Spring Data
-- Thymeleaf
-- Bootstrap
-- VueJS
-- JPA/Hibernet
+- Spring Boot
+- Spring Data JPA
 - Bean Validation
 - Maven
 - Mysql
 - Intellij
+
+##Front end
+- HTML / CSS / JS
+- Thymeleaf
+- Bootstrap
+- VueJS
 
 
 ## Autor
